@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10201" started-at="2021-01-23T01:00:25 CST" finished-at="2021-01-23T01:00:35 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10201" started-at="2021-01-23T01:00:25 CST" finished-at="2021-01-23T01:00:35 CST">
+      <class name="test.CategoryAlreadExistTest">
+        <test-method status="PASS" signature="UserIsNotAbletoDeplicateCategory()[pri:0, instance:test.CategoryAlreadExistTest@4e7dc304]" name="UserIsNotAbletoDeplicateCategory" duration-ms="10170" started-at="2021-01-23T01:00:25 CST" finished-at="2021-01-23T01:00:35 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserIsNotAbletoDeplicateCategory -->
+      </class> <!-- test.CategoryAlreadExistTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
